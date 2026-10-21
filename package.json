@@ -1,0 +1,17 @@
+{
+  "name": "python-learning",
+  "version": "1.0.0",
+  "description": "Two comprehensive, production-pattern, single-file servers performing the exact same tasks.",
+  "main": "express_server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^18.0.8",
+    "express": "^5.3.0",
+    "pg": "^8.23.1"
+  }
+}
